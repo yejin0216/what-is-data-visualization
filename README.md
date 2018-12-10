@@ -120,7 +120,7 @@
 ## 시각화 기술의 종류
 1. **도표와 통계 분석 도구 (eg. Microsoft Excel, Tableau)**
 1. **프로그래밍 환경 (eg. D2.js, Processing, R ggplot2)**
-1. **전문가 도구 (eg. Adobe Illustrator, Adobe Effect, ArcGIS, Gephi) **
+1. **전문가 도구 (eg. Adobe Illustrator, Adobe Effect, ArcGIS, Gephi)**
 
 
 
