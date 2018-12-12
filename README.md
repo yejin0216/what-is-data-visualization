@@ -114,7 +114,7 @@
 
 
 ### 분류 체계
-참고 [참고]()
+[Hierarchy of visual understanding](https://freshpeel.com/2010/11/hierarchy-of-visual-understanding/)
 
 
 ## 시각화 기술의 종류
